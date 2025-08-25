@@ -75,6 +75,7 @@ if (operacao === 'raiz') {
     console.log(`A divisão de ${n1} e ${n2} é ${resultado}`);
 } else {
     console.log("Operação inválida.");
+    console.log("TESTE")
 }
 
 
